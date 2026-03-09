@@ -3,3 +3,6 @@ name: nginx
 version: 1.0.0 # chart version
 description: nginx helm chart description
 appVersion: 1.0.1 # application version
+
+
+#helm list --all-namespaces
